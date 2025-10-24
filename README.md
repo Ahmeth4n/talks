@@ -3,6 +3,9 @@
 Collection of my talks and training materials.
 
 ## 2025
+**[R2Con2025 - Devirtualizing VM-Based Obfuscation in Android](https://rada.re/con/2025/#devirt)**
+Ahmethan Gultekin
+
 
 **[DPUSec - Deep Dive into SSL Pinning](https://github.com/Ahmeth4n/talks/blob/main/2025/dpusec/SSL%20Pinning%20with%20Different%20Variations.pdf)**
 Ahmethan Gultekin
