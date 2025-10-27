@@ -3,7 +3,7 @@
 Collection of my talks and training materials.
 
 ## 2025
-**[R2Con2025 - Devirtualizing VM-Based Obfuscation in Android](https://rada.re/con/2025/#devirt)**
+**[R2Con2025 - Devirtualizing VM-Based Obfuscation in Android](https://github.com/radareorg/r2con2025/blob/main/AndroidVMDevirtualize/presentation/r2con_android_vm_devirtualize_slides.pdf)**
 Ahmethan Gultekin
 
 
