@@ -3,6 +3,9 @@
 Collection of my talks and training materials.
 
 ## 2025
+**[Google Developer Groups Devfest - Mobil Uygulama Güvenliğini Farklı Perspektiflerden Okumak](https://github.com/Ahmeth4n/talks/blob/main/2025/gdg-devfest/Mobil%20Uygulama%20G%C3%BCvenligini%20Farkli%20Perspektiflerden%20Okumak.pdf)**
+Ahmethan Gultekin
+
 **[R2Con2025 - Devirtualizing VM-Based Obfuscation in Android](https://github.com/radareorg/r2con2025/blob/main/AndroidVMDevirtualize/presentation/r2con_android_vm_devirtualize_slides.pdf)**
 Ahmethan Gultekin
 
