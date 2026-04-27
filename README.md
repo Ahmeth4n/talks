@@ -2,6 +2,10 @@
 
 Collection of my talks and training materials.
 
+## 2026
+**[Deep Dive into Android Security](https://github.com/Ahmeth4n/talks/blob/main/2026/raconf26/Deep%20Dive%20into%20Android%20Security.pdf)**
+Ahmethan Gultekin
+
 ## 2025
 **[Google Developer Groups Devfest - Mobil Uygulama Güvenliğini Farklı Perspektiflerden Okumak](https://github.com/Ahmeth4n/talks/blob/main/2025/gdg-devfest/Mobil%20Uygulama%20G%C3%BCvenligini%20Farkli%20Perspektiflerden%20Okumak.pdf)**
 Ahmethan Gultekin
