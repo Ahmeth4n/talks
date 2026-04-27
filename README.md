@@ -5,6 +5,7 @@ Collection of my talks and training materials.
 ## 2026
 **[Deep Dive into Android Security](https://github.com/Ahmeth4n/talks/blob/main/2026/raconf26/Deep%20Dive%20into%20Android%20Security.pdf)**
 Ahmethan Gultekin
+
 **[Security Mindset Beyond Tools, Into Reality](https://github.com/Ahmeth4n/talks/blob/main/2026/raconf26/Security%20Mindset%20Beyond%20Tools%2C%20Into%20Reality.pdf)**
 Ahmethan Gultekin
 
